@@ -38,7 +38,7 @@ global.save_status_from = process.env.SAVE_STATUS_FROM || "";
 global.read_status_from = process.env.READ_STATUS_FROM || "";
 
 global.api_smd = "https://api-smd-1.vercel.app";
-global.scan = "https://drexmdpairing-59fb1c1e9ab2.herokuapp.com/";
+global.scan = "https://keithweb-85c830c44249.herokuapp.com/";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
